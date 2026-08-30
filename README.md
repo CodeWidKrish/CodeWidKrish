@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Krish Hingu</h1>
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for KRISH HINGU" src="art/header-light.png">
+</picture><h1 align="center">Hi 👋, I'm Krish Hingu</h1>
 <h3 align="center">Computer Engineering Student • Software Developer • Mumbai, India</h3>
 
 <p align="center">
