@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student • Software Developer • Mumbai, India</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/krish-hingu" target="_blank">
+  <a href="[https://linkedin.com/in/krish-hingu](https://www.linkedin.com/in/krish-hingu-4575b1333/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:krishhingu334@gmail.com">
