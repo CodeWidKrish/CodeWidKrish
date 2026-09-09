@@ -1,175 +1,229 @@
 <div align="center">
+
+  <!-- Responsive Slim Custom Dark Mode Banner (Compact Letterbox Ratio) -->
   <a href="https://github.com/CodeWidKrish">
     <img src="banner.png" alt="Krish Hingu - Computer Engineering • Software Developer • AI & Systems" width="100%">
   </a>
-</div>
 
-<hr/>
+  <br />
 
-<div align="center">
+  <!-- Animated Neon Typing Banner -->
   <a href="https://github.com/CodeWidKrish">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=800&height=45&lines=Building+TradeVision+AI+%E2%80%94+Flutter+%C2%B7+FastAPI+%C2%B7+ML;Cross-Platform+Systems+%C2%B7+High-Performance+APIs;Turning+market+data+into+intelligent+predictions;Computer+Engineering+%C2%B7+Mumbai%2C+India" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=850&height=45&lines=printf(%22Hello%2C+World!+I'm+Krish+Hingu+%F0%9F%91%8B%5Cn%22)%3B;Computer+Engineering+Student+%E2%80%A2+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Software+Developer+%26+System+Architect+%F0%9F%9A%80;Building+TradeVision+AI+(Flutter+%2B+FastAPI)+%F0%9F%93%88;AI%2FML+%E2%80%A2+Mobile+Apps+%E2%80%A2+High-Speed+APIs+%E2%9A%A1" alt="Typing SVG" />
   </a>
+
+  <p align="center">
+    <b>⚡ Translating complex computational logic into elegant, low-latency software and resilient architectures.</b>
+  </p>
+
+  <!-- Connect & Social Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/krish-hingu-4575b1333/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:krishhingu334@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/CodeWidKrish" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/CodeWidKrish">
+      <img src="https://komarev.com/ghpvc/?username=CodeWidKrish&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+    </a>
+  </p>
+
 </div>
 
-<hr/>
+---
 
-### 👨‍💻 About Me
+### 👨‍💻 Executive Summary
 
-🎓 Final-year Computer Engineering @ SVKM's Bhagubhai Mafatlal Polytechnic, Mumbai  
-🔨 Currently building TradeVision AI — algorithmic stock intelligence app  
-🌍 Speaks: English · Hindi · Gujarati · Marathi · German  
+> *"I am a Computer Engineering undergraduate and software developer dedicated to engineering dependable, high-throughput systems. My work centers on cross-platform application engineering (Flutter), asynchronous backend microservices (FastAPI), and applied machine learning heuristics that solve real-world problems."*
 
-<hr/>
+```bash
+krish@workstation:~$ neofetch --specs
+```
 
-### 🚧 Currently Building
+```yaml
+Engineer: Krish Hingu
+Discipline: Computer Engineering Undergraduate 🎓
+Location: Mumbai, Maharashtra, India 🇮🇳
+Primary_Specialization: Cross-Platform Systems (Flutter) & High-Performance APIs (FastAPI)
+Secondary_Specialization: Applied Machine Learning, Predictive Modeling & Cloud Architectures
+Core_Philosophy: "Performance without compromise, architecture with intent."
+Spoken_Languages: [English, Hindi, Gujarati, Marathi, German] 🌍
+Workflow_Doctrine: [SOLID Principles, Clean Architecture, Test-Driven Development]
+Flagship_Initiative: TradeVision AI (Financial Technology & Algorithmic Forecasting)
+Current_Objective: Building scalable, production-ready distributed systems 🚀
+```
 
-> 🚧 **TradeVision AI** — Real-time candlestick charting, FastAPI microservices, ML price forecasting, Supabase cloud sync. `[Flutter · Python · Supabase · Scikit-Learn]`
+---
 
-<hr/>
-
-### 📊 GitHub Stats
+### 🏛️ Engineering Core Competencies
 
 <div align="center">
-  <table border="0" width="100%">
-    <tr valign="top">
-      <td width="50%" align="center">
-        <a href="https://github.com/CodeWidKrish">
-          <img src="https://github-readme-stats.vercel.app/api?username=CodeWidKrish&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/CodeWidKrish">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWidKrish&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <a href="https://github.com/CodeWidKrish">
-    <img src="https://github-profile-trophy.vercel.app/?username=CodeWidKrish&theme=tokyonight&no-frame=true&no-bg=true&margin_w=12&row=1&column=4" width="100%" alt="GitHub Trophies" />
-  </a>
+
+| Domain | Core Specialization & Architecture Focus |
+| :--- | :--- |
+| **📱 Mobile & Client Systems** | **Flutter & Dart**: State management, reactive UI, 60fps animations, cross-platform architecture, asynchronous stream handling. |
+| **⚙️ Distributed Backends & APIs** | **FastAPI & Python**: Asynchronous RESTful APIs, OpenAPI standards, dependency injection, microservices, webhook pipelines. |
+| **🧠 Applied Data Science & ML** | **NumPy, Pandas, Scikit-Learn & SciPy**: Exploratory data analysis, regression/classification pipelines, feature engineering, statistical modeling. |
+| **🗄️ Persistence & Cloud Data** | **Supabase, Firebase, MySQL, PostgreSQL, MongoDB, SQLite**: ACID compliance, schema design, index optimization, real-time sync. |
+| **🛠️ Tooling, DevOps & Testing** | **Git, GitHub, VS Code, Postman, Linux/PowerShell**: Distributed version control, automated workflows, API contract validation. |
+
 </div>
 
-<hr/>
-
-### 🛠️ Skills
-
-<div align="center">
-  <table border="0" width="100%">
-    <thead>
-      <tr>
-        <th align="center" width="33%">Mobile & Backend</th>
-        <th align="center" width="33%">Data & ML</th>
-        <th align="center" width="34%">Tools & DB</th>
-      </tr>
-    </thead>
-    <tbody align="center">
-      <tr>
-        <td>
-          <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a><br/><br/>
-          <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a><br/><br/>
-          <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a><br/><br/>
-          <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-        </td>
-        <td>
-          <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a><br/><br/>
-          <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a><br/><br/>
-          <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a><br/><br/>
-          <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a><br/><br/>
-          <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
-        </td>
-        <td>
-          <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a><br/><br/>
-          <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a><br/><br/>
-          <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a><br/><br/>
-          <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a><br/><br/>
-          <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a><br/><br/>
-          <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
-<hr/>
+---
 
 ### 🚀 Flagship Project: TradeVision AI
 
-**TradeVision AI** is an algorithmic market intelligence ecosystem engineered to deliver real-time financial telemetry and machine-learning market predictions. Developed as a 3-member capstone initiative with **Krishna Bhundiya** and **Parv Kichadia**, guided by **Prof. Prachi Arora**.
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td>
+        <div align="left">
+          <h3>📈 <a href="https://github.com/CodeWidKrish?tab=repositories">TradeVision AI — Algorithmic Market Intelligence Engine</a></h3>
+          <p>
+            An end-to-end intelligent financial technology ecosystem designed to bridge technical market analysis with machine-learning driven predictive forecasting. Built with a decoupled microservice architecture for near-instant telemetry delivery.
+          </p>
+          <ul>
+            <li><b>Reactive Client Architecture:</b> Cross-platform mobile client designed in <b>Flutter</b> delivering interactive candlestick charting and financial indicators.</li>
+            <li><b>High-Throughput API Gateway:</b> Asynchronous <b>FastAPI</b> microservices orchestrating market data ingestion, caching, and indicator computation.</li>
+            <li><b>Predictive ML Pipeline:</b> Supervised machine learning algorithms modeling price action trends, moving averages, and quantitative volatility metrics.</li>
+            <li><b>Cloud Infrastructure:</b> Real-time user portfolio state and data synchronization powered by <b>Supabase</b>.</li>
+          </ul>
+          <p>
+            <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
+            <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+            <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+            <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning" /></a>
+            <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /></a>
+          </p>
+          <p>
+            👉 <b><a href="https://github.com/CodeWidKrish?tab=repositories">Inspect Source Code & Repositories ➔</a></b>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-```text
-┌──────────────┐     ┌─────────────────┐     ┌───────────────┐     ┌────────────────┐
-│ Flutter App  │ ──> │ FastAPI Gateway │ ──> │   ML Engine   │ ──> │ Supabase Cloud │
-└──────────────┘     └─────────────────┘     └───────────────┘     └────────────────┘
-```
+---
 
-- **Client Layer:** Cross-platform mobile client in Flutter with custom interactive candlestick charting.
-- **Microservices:** High-concurrency asynchronous API gateway built using FastAPI.
-- **ML Engine:** Predictive trend forecasting model built using Scikit-Learn and Pandas.
-- **Persistence:** Real-time state synchronization and user authentication via Supabase.
+### 🏆 GitHub Achievements & Milestones
 
-<hr/>
+<div align="center">
+  <a href="https://github.com/CodeWidKrish">
+    <img src="https://github-profile-trophy.vercel.app/?username=CodeWidKrish&theme=darkhub&no-frame=true&no-bg=true&margin_w=12&row=1" width="100%" alt="GitHub Trophies" />
+  </a>
+</div>
 
-### 📂 Other Projects
+---
 
-<details>
-<summary><b>CyberGuard AI</b> — <i>HTML · AI · Cybersecurity</i></summary>
-<br/>
-An intelligent cybersecurity detection and vulnerability scanning concept that garnered notable viral traction on LinkedIn. Focuses on automated heuristic threat detection.
-</details>
-
-<details>
-<summary><b>EduSmart</b> — <i>5th Place Hackathon Finish</i></summary>
-<br/>
-An education-technology platform engineered for rapid collaborative learning, securing a 5th-place finish at an inter-college competitive hackathon.
-</details>
-
-<details>
-<summary><b>CollegeEventManagement / EventSphere</b> — <i>Python</i></summary>
-<br/>
-A centralized event lifecycle platform engineered in Python for campus event coordination, participant ticketing, and administrative telemetry.
-</details>
-
-<details>
-<summary><b>PatientPulse</b> — <i>Healthcare Tech</i></summary>
-<br/>
-A dedicated healthcare monitoring and record triage platform designed for patient intake tracking and clinic appointment management.
-</details>
-
-<details>
-<summary><b>RushCart</b> — <i>HTML · CSS · E-Commerce</i></summary>
-<br/>
-A clean, responsive web storefront demonstrating modern CSS UI architectures, catalog navigation, and shopping cart ergonomics.
-</details>
-
-<details>
-<summary><b>NimbusWeatherApp</b> — <i>Java</i></summary>
-<br/>
-A desktop weather telemetry client written in Java interfacing external atmospheric APIs for real-time localized forecasts and meteorological data.
-</details>
-
-<hr/>
-
-### 🏆 Achievements
-
-- 🥇 **5th Place** — Competitive Hackathon Finish (`EduSmart`)
-- 🔥 **CyberGuard AI** — Notable viral reach and developer engagement on LinkedIn
-- 🚀 **TradeVision AI** — 3-member capstone team with production-grade modular architecture
-
-<hr/>
-
-### 💡 Engineering Philosophy
+### 🛠️ Technical Stack & Toolbelt
 
 <div align="center">
 
-> *"First, solve the problem. Then, write the code."*  
-> — **John Johnson**
+#### 💻 Programming Languages
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" /></a>
+  <a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" /></a>
+</p>
+
+#### 📱 Mobile, Frameworks & Backend
+<p align="center">
+  <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /></a>
+</p>
+
+#### 🗄️ Database Management Systems
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+</p>
+
+#### 🧠 Data Science & Machine Learning
+<p align="center">
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a>
+  <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
+  <a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=black" alt="SciPy" /></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
+</p>
+
+#### 🛠️ Developer Tools & Design
+<p align="center">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
+</p>
 
 </div>
 
-<hr/>
+---
+
+### 📊 GitHub Activity & Development Streak
 
 <div align="center">
-  <sub>⚡ Engineered with relentless curiosity & precision by Krish Hingu • Mumbai, India 🇮🇳</sub>
+
+  <!-- Streak Stats Card (Rock-solid, High-uptime) -->
+  <a href="https://github.com/CodeWidKrish">
+    <img src="https://streak-stats.demolab.com/?user=CodeWidKrish&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak" />
+  </a>
+
+  <br /><br />
+
+  <!-- Dynamic Live GitHub Key Indicators -->
+  <p align="center">
+    <a href="https://github.com/CodeWidKrish?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-Public%20%26%20Active-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Repositories" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/CodeWidKrish">
+      <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI%2FML-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Focus" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/CodeWidKrish">
+      <img src="https://img.shields.io/badge/Status-Shipping%20Code%20Daily-3ECF8E?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 💡 Daily Engineering Philosophy
+
+<div align="center">
+  <a href="https://github.com/CodeWidKrish">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Daily Quote" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>⚡ Engineered with relentless curiosity & precision by <a href="https://github.com/CodeWidKrish"><b>Krish Hingu</b></a> • Mumbai, India 🇮🇳</sub>
 </div>
