@@ -1,19 +1,15 @@
 <div align="center">
 
-  <!-- Clickable Responsive Header Banner -->
+  <!-- Clickable Responsive Custom Dark Mode Banner -->
   <a href="https://github.com/CodeWidKrish">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="header-light.png">
-      <img alt="Krish Hingu - Computer Engineering Student & Software Developer" src="header-dark.png" width="100%">
-    </picture>
+    <img src="banner.png" alt="Krish Hingu - Computer Engineering • Software Developer • AI & Systems" width="100%">
   </a>
 
   <br /><br />
 
-  <!-- Animated Neon Typing Banner -->
+  <!-- Animated Typing Banner (Full Width - No Letter Clipping) -->
   <a href="https://github.com/CodeWidKrish">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=650&height=55&lines=printf(%22Hello%2C+World!+I'm+Krish+Hingu+%F0%9F%91%8B%5Cn%22)%3B;Computer+Engineering+Student+%E2%80%A2+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Aspiring+Software+Engineer+%26+System+Architect+%F0%9F%9A%80;Building+TradeVision+AI+(Flutter+%2B+FastAPI)+%F0%9F%93%88;AI%2FML+%E2%80%A2+Mobile+Dev+%E2%80%A2+Full-Stack+Systems+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=850&height=50&lines=Hi+there%2C+I'm+Krish+Hingu+%F0%9F%91%8B;Computer+Engineering+Student+%E2%80%A2+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Software+Developer+%26+System+Architect+%F0%9F%9A%80;Building+TradeVision+AI+(Flutter+%2B+FastAPI)+%F0%9F%93%88;AI%2FML+%E2%80%A2+Mobile+Apps+%E2%80%A2+High-Speed+APIs+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -113,10 +109,10 @@ Terminal_Mood: ☕ Code -> Test -> Optimize -> Deploy -> Repeat
 
 ### 🛠️ Technical Arsenal & Toolkit
 
-*(Click any logo below to visit its official documentation)*
+<div align="center">
 
 #### 💻 Programming Languages
-<p align="left">
+<p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
   <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
@@ -132,7 +128,7 @@ Terminal_Mood: ☕ Code -> Test -> Optimize -> Deploy -> Repeat
 </p>
 
 #### 📱 Mobile, Frameworks & Backend
-<p align="left">
+<p align="center">
   <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
@@ -140,7 +136,7 @@ Terminal_Mood: ☕ Code -> Test -> Optimize -> Deploy -> Repeat
 </p>
 
 #### 🗄️ Database Management Systems
-<p align="left">
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /></a>
@@ -148,7 +144,7 @@ Terminal_Mood: ☕ Code -> Test -> Optimize -> Deploy -> Repeat
 </p>
 
 #### 🧠 Data Science & Machine Learning
-<p align="left">
+<p align="center">
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a>
@@ -159,7 +155,7 @@ Terminal_Mood: ☕ Code -> Test -> Optimize -> Deploy -> Repeat
 </p>
 
 #### 🛠️ Developer Tools & Design
-<p align="left">
+<p align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
@@ -167,6 +163,8 @@ Terminal_Mood: ☕ Code -> Test -> Optimize -> Deploy -> Repeat
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /></a>
   <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" /></a>
 </p>
+
+</div>
 
 ---
 
