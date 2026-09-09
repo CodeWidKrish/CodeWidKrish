@@ -1,15 +1,15 @@
 <div align="center">
 
-  <!-- Responsive Custom Dark Mode Banner -->
+  <!-- Responsive Slim Custom Dark Mode Banner (Compact Letterbox Ratio) -->
   <a href="https://github.com/CodeWidKrish">
     <img src="banner.png" alt="Krish Hingu - Computer Engineering • Software Developer • AI & Systems" width="100%">
   </a>
 
-  <br /><br />
+  <br />
 
   <!-- Animated Neon Typing Banner -->
   <a href="https://github.com/CodeWidKrish">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=850&height=50&lines=printf(%22Hello%2C+World!+I'm+Krish+Hingu+%F0%9F%91%8B%5Cn%22)%3B;Computer+Engineering+Student+%E2%80%A2+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Software+Developer+%26+System+Architect+%F0%9F%9A%80;Building+TradeVision+AI+(Flutter+%2B+FastAPI)+%F0%9F%93%88;AI%2FML+%E2%80%A2+Mobile+Apps+%E2%80%A2+High-Speed+APIs+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=850&height=45&lines=printf(%22Hello%2C+World!+I'm+Krish+Hingu+%F0%9F%91%8B%5Cn%22)%3B;Computer+Engineering+Student+%E2%80%A2+Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Software+Developer+%26+System+Architect+%F0%9F%9A%80;Building+TradeVision+AI+(Flutter+%2B+FastAPI)+%F0%9F%93%88;AI%2FML+%E2%80%A2+Mobile+Apps+%E2%80%A2+High-Speed+APIs+%E2%9A%A1" alt="Typing SVG" />
   </a>
 
   <p align="center">
