@@ -226,31 +226,24 @@ Current_Objective: Building scalable, production-ready distributed systems 🚀
     </a>
   </p>
 
-  <br />
-
-  <!-- Animated Contribution Grid Snake -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-
 </div>
 
 ---
 
-### 🎧 Focus Audio & Coding Frequencies
+### 🕹️ Contribution Telemetry & Snake Arcade
 
 <div align="center">
   <p align="center">
-    <a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Soundtrack-Synthwave%20%26%20Lo--Fi%20Beats-00F0FF?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify Coding Soundtrack" />
-    </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/State-Deep%20Focus%20Flow-3ECF8E?style=for-the-badge&logo=soundcharts&logoColor=white" alt="Deep Focus State" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/BPM-85%20--%20110%20Hz-FF6F00?style=for-the-badge&logo=electron&logoColor=white" alt="Focus Frequency" />
+    <b>Autonomous snake crawling in real-time over my GitHub contribution graph 🎮</b>
   </p>
+
+  <a href="https://github.com/CodeWidKrish">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    </picture>
+  </a>
 </div>
 
 ---
