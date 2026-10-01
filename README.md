@@ -134,11 +134,15 @@
 
 <hr/>
 
-### 🕹️ Contribution Telemetry & Snake Arcade
+### 🕹️ Real-Time Contribution Telemetry & Snake Arcade
 
 <div align="center">
   <p align="center">
-    <b>Autonomous snake crawling in real-time over my GitHub contribution graph 🎮</b>
+    <img src="https://img.shields.io/badge/Player%201-CodeWidKrish-00F0FF?style=flat-square&logo=gamepad&logoColor=black" alt="Player 1" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Mode-Autonomous%20Pathfinder-7928CA?style=flat-square&logo=radar&logoColor=white" alt="Mode" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Target-Devour%20Commits-FF3366?style=flat-square&logo=target&logoColor=white" alt="Target" />
   </p>
 
   <a href="https://github.com/CodeWidKrish">
@@ -148,6 +152,10 @@
       <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg" width="100%" />
     </picture>
   </a>
+
+  <p align="center">
+    <sub>🕹️ <b>Arcade Telemetry:</b> <code>[▲]</code> <code>[▼]</code> <code>[◄]</code> <code>[►]</code> <i>Autonomous AI Pathfinder • Powered by GitHub Actions & Platane Snk v3</i></sub>
+  </p>
 </div>
 
 <hr/>
