@@ -10,11 +10,11 @@
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=CodeWidKrish&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=CodeWidKrish&label=Profile%20views&color=00F0FF&style=flat" alt="Profile Views" />
     &nbsp;
-    <img src="https://img.shields.io/badge/Status-Building%20The%20Future-00F0FF?style=flat-square&logo=git&logoColor=black" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Building%20The%20Future-00F0FF?style=flat&logo=git&logoColor=black" alt="Status" />
     &nbsp;
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-7928CA?style=flat-square&logo=target&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-7928CA?style=flat&logo=target&logoColor=white" alt="Focus" />
   </p>
 </div>
 
