@@ -3,194 +3,103 @@
   <a href="https://github.com/CodeWidKrish">
     <img src="banner.png" alt="Krish Hingu - Computer Engineering • Software Developer • AI & Systems" width="100%">
   </a>
-
-  <br/><br/>
-
-  <!-- Greeting & Profile Views -->
-  <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Wave"> I'm Krish Hingu</h1>
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=CodeWidKrish&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </p>
 </div>
 
-<!-- About Me Section (Two-Column with Animated Coder) -->
-<table>
-  <tr>
-    <td valign="top" width="62%">
-      <br/>
-      <ul>
-        <li>🔭 <b>Currently Working On:</b> <a href="https://github.com/CodeWidKrish?tab=repositories"><b>TradeVision AI</b></a> — Algorithmic stock intelligence app built with Flutter & FastAPI</li>
-        <li>💬 <b>Ask Me About:</b> Python, Flutter, FastAPI, AI/ML, App Development, or anything</li>
-        <li>📫 <b>Reach Me At:</b> <a href="mailto:krishhingu334@gmail.com">krishhingu334@gmail.com</a></li>
-        <li>👨‍💻 <b>About Me:</b> A curious mind wired for innovation, low-latency code, and building real-world products</li>
-        <li>💡 <b>Core Mindset:</b> Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty</li>
-        <li>🌐 <b>Languages Spoken:</b> English, Hindi, Gujarati, Marathi, German</li>
-        <li>📍 <b>Location:</b> Mumbai, India</li>
-      </ul>
-    </td>
-    <td valign="top" width="38%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer Coding Animation" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Krish Hingu</h1>
 
----
+<p align="center">  <img src="https://komarev.com/ghpvc/?username=CodeWidKrish&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWidKrish" />  </p>
 
-## 🤝 Connect with me
+<img align="right" src="https://github.com/user-attachments/assets/c0a8cc4a-4251-43b4-90cc-18cc71cc3b03" alt="Profile Image" width="300"/>
+
+- 🌱 **Currently Working On:** [TradeVision AI](https://github.com/CodeWidKrish?tab=repositories)<br>
+- 💬 Ask Me About: Python, Flutter, FastAPI, AI/ML, App Development, or anything. <br>
+- 📫 Reach Me At: [krishhingu334@gmail.com](mailto:krishhingu334@gmail.com) <br>
+- ⚡ About Me: **A curious mind wired for innovation.** <br>
+- 💎 Smart + Hard work + Quick Adaptation + Critical Thinking + Honesty <br>
+- 🌎 I Know English, Hindi, Gujarati, Marathi, German <br>
+- 📍 **Location:** Mumbai, India <br>
+
+<br>
+<br>
+
+# <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Connect with me 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/krish-hingu-4575b1333/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-KRISH%20HINGU-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/krish-hingu-4575b1333/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Krish%20Hingu-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;
-  <a href="mailto:krishhingu334@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-KRISH%20HINGU-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:krishhingu334@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-krishhingu334@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  &nbsp;
-  <a href="https://github.com/CodeWidKrish">
-    <img src="https://img.shields.io/badge/GitHub-CodeWidKrish-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/CodeWidKrish" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-CodeWidKrish-gray?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/CodeWidKrish/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-KRISH%20HINGU-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://www.leetcode.com/u/CodeWidKrish/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
   </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/CodeWidKrish" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-KRISH%20HINGU-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <a href="https://www.hackerrank.com/profile/CodeWidKrish" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">
   </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
+# <img src="https://github.com/user-attachments/assets/9e7f5888-ec3c-491f-9ebc-cedefd62b6ea" alt="Robot" width="40" /> Tech Stack
 
 <div align="center">
+  <h3>Programming Languages & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,fastapi,html,css,java,js,ts,python" /><br />
 
-### Programming Languages & Frameworks
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,dart,flutter,fastapi,html,css" alt="Programming Languages & Frameworks" />
-  </a>
-</p>
+  <h3>Tools & Development Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,powershell,postman,figma,canva" /><br />
 
-### Tools & Development Platforms
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,canva" alt="Tools & Development Platforms" />
-  </a>
-</p>
+  <h3>Databases & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,sqlite,postgres,sklearn" /><br />
 
-### Databases & Libraries
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,postgres,supabase,firebase,sklearn" alt="Databases & Libraries" />
-  </a>
-</p>
-
-### Operating Systems & Miscellaneous
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,powershell,md" alt="Operating Systems & Miscellaneous" />
-  </a>
-</p>
-
+  <h3>Operating Systems & Miscellaneous</h3>
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,md,docker" />
 </div>
 
----
-
-## 📊 My GitHub Metrics
-
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My GitHub Metrics
 <details open>
-  <summary><b>Click to Expand Stats</b></summary>
-  <br/>
+  <summary><strong>📊 Click to Expand Stats</strong></summary>
+  <br> 
   
-  <div align="center">
-    <table border="0" width="100%">
-      <tr>
-        <td width="50%" align="center">
-          <a href="https://github.com/CodeWidKrish">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWidKrish&theme=2077" width="100%" alt="Profile Details" />
-          </a>
-        </td>
-        <td width="50%" align="center">
-          <a href="https://github.com/CodeWidKrish">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeWidKrish&theme=2077" width="100%" alt="GitHub Overall Stats" />
-          </a>
-        </td>
-      </tr>
-    </table>
+<div align="center">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWidKrish&theme=calm">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeWidKrish&theme=calm">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWidKrish&theme=calm">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeWidKrish&theme=calm">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeWidKrish&theme=calm&utcOffset=5.5">
+<br/>
+<img height="169em" src="https://streak-stats.demolab.com?user=CodeWidKrish&theme=calm&hide_border=false">
+</div>
+  
+  ## 🏆 GitHub Trophies  
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=CodeWidKrish&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" />
+  </p>
 
-    <table border="0" width="100%">
-      <tr>
-        <td width="33%" align="center">
-          <a href="https://github.com/CodeWidKrish">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWidKrish&theme=2077" width="100%" alt="Top Languages by Repo" />
-          </a>
-        </td>
-        <td width="33%" align="center">
-          <a href="https://github.com/CodeWidKrish">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeWidKrish&theme=2077" width="100%" alt="Top Languages by Commit" />
-          </a>
-        </td>
-        <td width="34%" align="center">
-          <a href="https://github.com/CodeWidKrish">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-commit-time?username=CodeWidKrish&theme=2077&utcOffset=5.5" width="100%" alt="Commits Time Distribution" />
-          </a>
-        </td>
-      </tr>
-    </table>
+## 📈 Contribution Graph & Snake Game
 
-    <br/>
-
-    <!-- Streak Stats Card -->
-    <a href="https://github.com/CodeWidKrish">
-      <img src="https://streak-stats.demolab.com/?user=CodeWidKrish&theme=dark&hide_border=true&card_width=490" alt="GitHub Streak" />
-    </a>
-  </div>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
 
 </details>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/CodeWidKrish">
-    <img src="https://github-profile-trophy.vercel.app/?username=CodeWidKrish&theme=darkhub&no-frame=true&no-bg=true&margin_w=12&row=1" width="100%" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
-## 📈 Contribution Graph & Snake Arcade
-
-<div align="center">
-  <p align="center">
-    <b>Autonomous snake crawling in real-time over my GitHub contribution graph 🎮</b>
-  </p>
-
-  <a href="https://github.com/CodeWidKrish">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake.svg">
-      <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg" width="100%" />
-    </picture>
-  </a>
-</div>
-
----
-
-## 🏆 Achievements
-
-- 🥇 **5th Place** — Competitive Inter-College Hackathon (`EduSmart`)
-- 🔥 **CyberGuard AI** — Notable viral reach & developer engagement on LinkedIn
-- 🚀 **TradeVision AI** — 3-member capstone team with production-grade modular architecture
+# <img src="https://github.com/user-attachments/assets/a68c93ba-7265-495b-a791-9d8e0a289fb2" alt="Robot" width="40" /> Achievements
+- 🥇 **5th Place** – Competitive Inter-College Hackathon (`EduSmart`)
+- 🔥 **CyberGuard AI** – Notable viral reach & developer engagement on LinkedIn
+- 🚀 **TradeVision AI** – 3-member capstone team with production-grade modular architecture
 - 💡 **Computer Engineering Final Year** @ SVKM's Bhagubhai Mafatlal Polytechnic, Mumbai
 
----
+<br>
+
+<h3 align="center">Show some 💖 by ⭐ the <a href="https://github.com/CodeWidKrish?tab=repositories">repositories</a>!</h3>
 
 <div align="center">
-  <p><b>Show some ❤️ by 🌟 the repositories!</b></p>
-  <sub>⚡ Engineered with relentless curiosity & precision by <a href="https://github.com/CodeWidKrish"><b>Krish Hingu</b></a> • Mumbai, India 🇮🇳</sub>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 </div>
