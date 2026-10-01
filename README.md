@@ -10,7 +10,11 @@
   </a>
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=CodeWidKrish&label=Profile%20views&color=00F0FF&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=CodeWidKrish&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Building%20The%20Future-00F0FF?style=flat-square&logo=git&logoColor=black" alt="Status" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Systems-7928CA?style=flat-square&logo=target&logoColor=white" alt="Focus" />
   </p>
 </div>
 
@@ -20,9 +24,9 @@
 
 <table width="100%">
   <tr>
-    <td valign="middle" width="65%">
+    <td valign="middle" width="63%">
       <ul>
-        <li>🔭 <b>Currently Working On:</b> <a href="https://github.com/CodeWidKrish?tab=repositories"><b>TradeVision AI</b></a> (Algorithmic stock intelligence app built with Flutter & FastAPI)</li>
+        <li>🔭 <b>Currently Working On:</b> <a href="https://github.com/CodeWidKrish"><b>TradeVision AI</b></a> (Algorithmic stock intelligence app built with Flutter & FastAPI)</li>
         <li>🎓 <b>Education:</b> Computer Engineering Final Year @ SVKM's Bhagubhai Mafatlal Polytechnic, Mumbai</li>
         <li>💬 <b>Ask Me About:</b> Python, Flutter, FastAPI, AI/ML, App Development, C, JavaScript</li>
         <li>🧠 <b>Core Mindset:</b> Smart Hard Work + Quick Adaptation + Critical Thinking</li>
@@ -30,7 +34,7 @@
         <li>📍 <b>Location:</b> Mumbai, India</li>
       </ul>
     </td>
-    <td valign="middle" width="35%" align="center">
+    <td valign="middle" width="37%" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer Animation" />
     </td>
   </tr>
@@ -44,11 +48,11 @@
   <a href="https://www.linkedin.com/in/krish-hingu-4575b1333/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:krishhingu334@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/CodeWidKrish" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -56,28 +60,28 @@
 
 <hr/>
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Architecture Arsenal
 
 <div align="center">
 
 <h4>Languages & Frameworks</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,react,c,cpp,js,ts,html,css" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,react,c,cpp,js,ts,html,css&theme=dark" alt="Languages & Frameworks" />
   </a>
 </p>
 
-<h4>Databases & Backend</h4>
+<h4>Databases & Cloud Infrastructure</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,supabase,mysql,sqlite" alt="Databases & Backend" />
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,supabase,mysql,sqlite&theme=dark" alt="Databases & Cloud" />
   </a>
 </p>
 
-<h4>Tools & Platforms</h4>
+<h4>Developer Tools & Environments</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" alt="Tools & Platforms" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,docker,bash&theme=dark" alt="Tools & Environments" />
   </a>
 </p>
 
@@ -85,12 +89,47 @@
 
 <hr/>
 
-### 📊 GitHub Activity & Development Streak
+### 🏆 Featured Achievements & Milestones
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <br/>
+      <b>🥇 5th Place Hackathon</b>
+      <p>Competitive Inter-College Hackathon (Eduseart) — recognized for rapid architectural delivery and real-time execution.</p>
+    </td>
+    <td width="33%" align="center">
+      <br/>
+      <b>🚀 CyberGuard AI</b>
+      <p>Security intelligence & threat detection platform — gained notable viral developer reach and industry engagement on LinkedIn.</p>
+    </td>
+    <td width="34%" align="center">
+      <br/>
+      <b>⚡ TradeVision AI</b>
+      <p>Lead architect of capstone stock intelligence mobile platform engineered with modular Flutter UI and low-latency FastAPI backend.</p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+
+### 📊 Engineering Telemetry & Dev Streak
 
 <div align="center">
-  <a href="https://github.com/CodeWidKrish">
-    <img src="https://streak-stats.demolab.com/?user=CodeWidKrish&theme=dark&hide_border=true&card_width=500" alt="GitHub Streak" />
-  </a>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/CodeWidKrish">
+          <img src="https://streak-stats.demolab.com/?user=CodeWidKrish&theme=tokyonight&hide_border=true&card_width=480" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CodeWidKrish">
+          <img src="https://github-readme-stats.vercel.app/api?username=CodeWidKrish&show_icons=true&theme=tokyonight&hide_border=true&card_width=480" alt="GitHub Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <hr/>
@@ -113,14 +152,8 @@
 
 <hr/>
 
-### 🏆 Featured Achievements
-
-- 🏆 **5th Place** – Competitive Inter-College Hackathon (`EduSmart`)
-- 🚀 **CyberGuard AI** – Notable viral reach & developer engagement on LinkedIn
-- ⚡ **TradeVision AI** – Capstone lead with production-grade modular architecture
-
-<hr/>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=100&section=footer&animation=twinkling" width="100%" alt="Footer Wave" />
+  <br/>
   <sub>⚡ Engineered with relentless curiosity & precision by <a href="https://github.com/CodeWidKrish"><b>Krish Hingu</b></a> • Mumbai, India 🇮🇳</sub>
 </div>
