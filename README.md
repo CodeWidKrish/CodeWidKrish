@@ -134,15 +134,21 @@
 
 <hr/>
 
-### 🕹️ Real-Time Contribution Telemetry & Snake Arcade
+### 📈 Real-Time Contribution Velocity
 
 <div align="center">
   <p align="center">
-    <img src="https://img.shields.io/badge/Player%201-CodeWidKrish-00F0FF?style=flat-square&logo=gamepad&logoColor=black" alt="Player 1" />
+    <a href="https://github.com/CodeWidKrish?tab=overview">
+      <img src="https://img.shields.io/badge/Contribution%20Cadence-Daily%20Shipping-00F0FF?style=flat&logo=git&logoColor=black" alt="Daily Shipping" />
+    </a>
     &nbsp;
-    <img src="https://img.shields.io/badge/Mode-Autonomous%20Pathfinder-7928CA?style=flat-square&logo=radar&logoColor=white" alt="Mode" />
+    <a href="https://github.com/CodeWidKrish?tab=repositories">
+      <img src="https://img.shields.io/badge/Workflows-Automated%20CI%2FCD-7928CA?style=flat&logo=githubactions&logoColor=white" alt="Automated CI/CD" />
+    </a>
     &nbsp;
-    <img src="https://img.shields.io/badge/Target-Devour%20Commits-FF3366?style=flat-square&logo=target&logoColor=white" alt="Target" />
+    <a href="mailto:krishhingu334@gmail.com?subject=Opportunity%20/%20Collaboration%20Inquiry">
+      <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-3ECF8E?style=flat&logo=target&logoColor=white" alt="Available for Opportunities" />
+    </a>
   </p>
 
   <a href="https://github.com/CodeWidKrish">
@@ -153,8 +159,21 @@
     </picture>
   </a>
 
+  <br/><br/>
+
+  <!-- Functional Quick Action Launchpad -->
   <p align="center">
-    <sub>🕹️ <b>Arcade Telemetry:</b> <code>[▲]</code> <code>[▼]</code> <code>[◄]</code> <code>[►]</code> <i>Autonomous AI Pathfinder • Powered by GitHub Actions & Platane Snk v3</i></sub>
+    <a href="https://github.com/CodeWidKrish?tab=repositories">
+      <img src="https://img.shields.io/badge/Explore-Public%20Repositories-00F0FF?style=for-the-badge&logo=github&logoColor=black" alt="Repositories" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://github.com/CodeWidKrish/TradeVision-AI">
+      <img src="https://img.shields.io/badge/View-TradeVision%20AI-7928CA?style=for-the-badge&logo=flutter&logoColor=white" alt="TradeVision AI" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:krishhingu334@gmail.com?subject=Opportunity%20/%20Collaboration%20Inquiry">
+      <img src="https://img.shields.io/badge/Get%20In%20Touch-Hire%20or%20Collaborate-3ECF8E?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire or Collaborate" />
+    </a>
   </p>
 </div>
 
