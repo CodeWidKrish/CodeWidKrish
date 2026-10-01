@@ -26,7 +26,7 @@
   <tr>
     <td valign="middle" width="63%">
       <ul>
-        <li>🔭 <b>Currently Working On:</b> <a href="https://github.com/CodeWidKrish"><b>TradeVision AI</b></a> (Algorithmic stock intelligence app built with Flutter & FastAPI)</li>
+        <li>🔭 <b>Currently Working On:</b> <a href="https://github.com/CodeWidKrish/TradeVision-AI"><b>TradeVision AI</b></a> (Algorithmic stock intelligence app built with Flutter & FastAPI)</li>
         <li>🎓 <b>Education:</b> Computer Engineering Final Year @ SVKM's Bhagubhai Mafatlal Polytechnic, Mumbai</li>
         <li>💬 <b>Ask Me About:</b> Python, Flutter, FastAPI, AI/ML, App Development, C, JavaScript</li>
         <li>🧠 <b>Core Mindset:</b> Smart Hard Work + Quick Adaptation + Critical Thinking</li>
@@ -100,12 +100,12 @@
     </td>
     <td width="33%" align="center">
       <br/>
-      <b>🚀 CyberGuard AI</b>
+      <a href="https://github.com/CodeWidKrish/CyberGuardAI"><b>🚀 CyberGuard AI</b></a>
       <p>Security intelligence & threat detection platform — gained notable viral developer reach and industry engagement on LinkedIn.</p>
     </td>
     <td width="34%" align="center">
       <br/>
-      <b>⚡ TradeVision AI</b>
+      <a href="https://github.com/CodeWidKrish/TradeVision-AI"><b>⚡ TradeVision AI</b></a>
       <p>Lead architect of capstone stock intelligence mobile platform engineered with modular Flutter UI and low-latency FastAPI backend.</p>
     </td>
   </tr>
@@ -125,7 +125,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/CodeWidKrish">
-          <img src="https://github-readme-stats.vercel.app/api?username=CodeWidKrish&show_icons=true&theme=tokyonight&hide_border=true&card_width=480" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=CodeWidKrish&show_icons=true&theme=tokyonight&hide_border=true&card_width=480&hide_rank=true" alt="GitHub Stats" />
         </a>
       </td>
     </tr>
