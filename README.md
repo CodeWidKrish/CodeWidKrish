@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/CodeWidKrish"><img src="assets/hero.svg" alt="Krish Hingu: Computer Engineering student, full-stack, mobile and AI/ML developer from Mumbai" width="100%"></a>
+<a href="https://github.com/CodeWidKrish"><img src="assets/hero-cinematic.svg" alt="Krish Hingu: Computer Engineering student, full-stack, mobile and AI/ML developer from Mumbai" width="100%"></a>
 
 <a href="https://github.com/CodeWidKrish"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=920&height=48&lines=I+turn+ideas+into+full-stack%2C+mobile+and+AI+products;PulseOS+%E2%80%94+an+AI+health+companion;TradeVision+AI+%E2%80%94+AI+equity+intelligence;Claude+Relay+%E2%80%94+keep+coding+past+the+5-hour+limit;CryptoPredict+AI+%E2%80%94+machine+learning+for+Bitcoin;Always+shipping+something+new+%F0%9F%9A%80" alt="I turn ideas into full-stack, mobile and AI products: PulseOS, TradeVision AI, Claude Relay and CryptoPredict AI."></a>
 
