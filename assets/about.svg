@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Terminal card: whoami. Krish Hingu, Computer Engineering final year at Shri Bhagubhai Mafatlal Polytechnic, Mumbai. Builds full-stack, mobile and AI/ML projects. Currently building PulseOS, TradeVision AI and Claude Relay. Speaks English, Hindi, Gujarati, Marathi and German. Open to internships, opportunities and collaborations.">
+  <defs>
+    <style>
+      .m  { font: 500 19px 'Fira Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace; white-space: pre; }
+      .t  { font: 600 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; }
+      .ps { fill: #3ECF8E; } .cmd { fill: #00F0FF; } .k { fill: #c084fc; } .s { fill: #f6c177; } .p { fill: #e2e8f0; } .c { fill: #64748b; }
+      .line { opacity: 0; animation: show .35s ease-out forwards; }
+      @keyframes show { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: translateX(0); } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="1199" height="429" rx="18" fill="#0b1020" stroke="#1e293b"/>
+  <rect x="0.5" y="0.5" width="1199" height="46" rx="18" fill="#111827"/>
+  <rect x="0.5" y="30" width="1199" height="17" fill="#111827"/>
+  <circle cx="30" cy="24" r="7" fill="#ff5f57"/><circle cx="54" cy="24" r="7" fill="#febc2e"/><circle cx="78" cy="24" r="7" fill="#28c840"/>
+  <text x="600" y="29" text-anchor="middle" class="t">krish@mumbai: ~</text>
+
+  <g class="line" style="animation-delay:.2s"><text x="34" y="92" class="m"><tspan class="ps">❯</tspan><tspan class="cmd"> whoami</tspan></text></g>
+  <g class="line" style="animation-delay:.6s"><text x="34" y="128" class="m"><tspan class="k">name</tspan><tspan class="p">      = </tspan><tspan class="s">"Krish Hingu"</tspan></text></g>
+  <g class="line" style="animation-delay:.9s"><text x="34" y="160" class="m"><tspan class="k">studying</tspan><tspan class="p">  = </tspan><tspan class="s">"Computer Engineering (final year) @ Shri Bhagubhai Mafatlal Polytechnic"</tspan></text></g>
+  <g class="line" style="animation-delay:1.2s"><text x="34" y="192" class="m"><tspan class="k">builds</tspan><tspan class="p">    = </tspan><tspan class="p">[</tspan><tspan class="s">"full-stack web"</tspan><tspan class="p">, </tspan><tspan class="s">"mobile apps"</tspan><tspan class="p">, </tspan><tspan class="s">"AI / ML systems"</tspan><tspan class="p">, </tspan><tspan class="s">"dev tools"</tspan><tspan class="p">]</tspan></text></g>
+  <g class="line" style="animation-delay:1.5s"><text x="34" y="224" class="m"><tspan class="k">now</tspan><tspan class="p">       = </tspan><tspan class="p">[</tspan><tspan class="s">"PulseOS"</tspan><tspan class="p">, </tspan><tspan class="s">"TradeVision AI"</tspan><tspan class="p">, </tspan><tspan class="s">"Claude Relay"</tspan><tspan class="p">]</tspan></text></g>
+  <g class="line" style="animation-delay:1.8s"><text x="34" y="256" class="m"><tspan class="k">speaks</tspan><tspan class="p">    = </tspan><tspan class="p">[</tspan><tspan class="s">"English"</tspan><tspan class="p">, </tspan><tspan class="s">"Hindi"</tspan><tspan class="p">, </tspan><tspan class="s">"Gujarati"</tspan><tspan class="p">, </tspan><tspan class="s">"Marathi"</tspan><tspan class="p">, </tspan><tspan class="s">"German"</tspan><tspan class="p">]</tspan></text></g>
+  <g class="line" style="animation-delay:2.1s"><text x="34" y="288" class="m"><tspan class="k">mindset</tspan><tspan class="p">   = </tspan><tspan class="s">"smart hard work + quick adaptation + critical thinking"</tspan></text></g>
+  <g class="line" style="animation-delay:2.4s"><text x="34" y="320" class="m"><tspan class="k">open_to</tspan><tspan class="p">   = </tspan><tspan class="s">"internships, opportunities and collaborations"</tspan></text></g>
+  <g class="line" style="animation-delay:2.8s"><text x="34" y="364" class="m"><tspan class="c"># ask me about Python, Flutter, FastAPI, Next.js, AI/ML and app development</tspan></text></g>
+  <g class="line" style="animation-delay:3.1s"><text x="34" y="400" class="m"><tspan class="ps">❯</tspan><tspan class="cursor" fill="#00F0FF"> ▌</tspan></text></g>
+</svg>
