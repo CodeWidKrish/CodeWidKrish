@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Contribution Snake and 3D Calendar
 
 on:
   schedule:
@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Generate github-contribution-grid-snake.svg
@@ -25,7 +25,19 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%230284c7&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FF3366&color_dots=%23161b22,%23083344,%230e7490,%2300B4D8,%2300F0FF
 
-      - name: Push github-contribution-grid-snake.svg to output branch
+      # 3D contribution skyline, published to the same output branch so main only has my commits
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect 3D calendar files
+        run: |
+          mkdir -p dist/3d
+          cp profile-3d-contrib/*.svg dist/3d/
+
+      - name: Push generated images to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="07 GitHub stats: live numbers, refreshed automatically">
+  <defs>
+    <linearGradient id="u" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF3D9A"/><stop offset=".6" stop-color="#7928CA"/><stop offset="1" stop-color="#FF3D9A" stop-opacity="0"/></linearGradient>
+    <style>
+      .n { font: 800 46px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: none; stroke: #FF3D9A; stroke-width: 1.4; }
+      .t { font: 800 34px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #f8fafc; letter-spacing: .5px; }
+      .s { font: 500 16px 'Fira Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace; fill: #94a3b8; }
+      .bar { animation: grow 1.4s ease-out forwards; transform-origin: 118px 0; transform: scaleX(0); }
+      @keyframes grow { to { transform: scaleX(1); } }
+      .dot { animation: run 4s ease-in-out infinite; }
+      @keyframes run { 0% { transform: translateX(0); opacity: 0; } 10% { opacity: 1; } 90% { opacity: 1; } 100% { transform: translateX(700px); opacity: 0; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="1198" height="94" rx="18" fill="#070a18" stroke="#FF3D9A" stroke-opacity=".35"/>
+  <text x="26" y="62" class="n">07</text>
+  <text x="118" y="48" class="t">GitHub stats</text>
+  <text x="120" y="74" class="s">live numbers, refreshed automatically</text>
+  <rect x="118" y="83" width="760" height="3" rx="1.5" fill="url(#u)" class="bar"/>
+  <circle cx="118" cy="84.5" r="4" fill="#fff" class="dot"/>
+</svg>

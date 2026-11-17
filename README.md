@@ -1,24 +1,48 @@
 <div align="center">
 
-<a href="https://github.com/CodeWidKrish"><img src="assets/hero.svg" alt="Krish Hingu: Computer Engineering student, software developer and AI/ML builder from Mumbai" width="100%"></a>
+<a href="https://github.com/CodeWidKrish"><img src="assets/hero.svg" alt="Krish Hingu: Computer Engineering student, full-stack, mobile and AI/ML developer from Mumbai" width="100%"></a>
 
-<a href="https://github.com/CodeWidKrish"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=900&height=46&lines=I+build+full-stack%2C+mobile+and+AI%2FML+products;PulseOS+%E2%80%94+an+AI+health+companion;TradeVision+AI+%E2%80%94+AI+equity+intelligence;Claude+Relay+%E2%80%94+keep+coding+past+the+5-hour+limit;Always+shipping+something+new+%F0%9F%9A%80" alt="I build full-stack, mobile and AI/ML products. PulseOS, TradeVision AI and Claude Relay."></a>
+<a href="https://github.com/CodeWidKrish"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=920&height=48&lines=I+turn+ideas+into+full-stack%2C+mobile+and+AI+products;PulseOS+%E2%80%94+an+AI+health+companion;TradeVision+AI+%E2%80%94+AI+equity+intelligence;Claude+Relay+%E2%80%94+keep+coding+past+the+5-hour+limit;CryptoPredict+AI+%E2%80%94+machine+learning+for+Bitcoin;Always+shipping+something+new+%F0%9F%9A%80" alt="I turn ideas into full-stack, mobile and AI products: PulseOS, TradeVision AI, Claude Relay and CryptoPredict AI."></a>
 
 <a href="https://www.linkedin.com/in/krish-hingu-4575b1333/"><img src="https://img.shields.io/badge/LinkedIn-Krish%20Hingu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:krishhingu334@gmail.com?subject=Opportunity%20%2F%20Collaboration"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<img src="https://img.shields.io/badge/Mumbai-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Mumbai, India">
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-3ECF8E?style=for-the-badge&logo=target&logoColor=white" alt="Open to opportunities">
+<a href="https://github.com/CodeWidKrish?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-7928CA?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"></a>
 <img src="https://komarev.com/ghpvc/?username=CodeWidKrish&label=Profile%20views&color=00F0FF&style=for-the-badge" alt="Profile views">
+
+<sub><b>
+<a href="#about">About</a> ·
+<a href="#showcase">Showcase</a> ·
+<a href="#projects">Projects</a> ·
+<a href="#tech">Tech</a> ·
+<a href="#achievements">Achievements</a> ·
+<a href="#journey">Journey</a> ·
+<a href="#stats">Stats</a> ·
+<a href="#playground">Playground</a> ·
+<a href="#connect">Connect</a>
+</b></sub>
 
 </div>
 
 <br>
 
-## 👨‍💻 About me
+<a id="about"></a>
+<img src="assets/headers/01.svg" alt="01 About me" width="100%">
 
 <img src="assets/about.svg" alt="whoami: Krish Hingu, Computer Engineering final year at Shri Bhagubhai Mafatlal Polytechnic, Mumbai. Builds full-stack web, mobile apps, AI/ML systems and dev tools. Now building PulseOS, TradeVision AI and Claude Relay. Speaks English, Hindi, Gujarati, Marathi and German. Open to internships, opportunities and collaborations." width="100%">
 
-## 🚀 Featured projects
+<br><br>
+
+<a id="showcase"></a>
+<img src="assets/headers/02.svg" alt="02 Project showcase" width="100%">
+
+<div align="center">
+<img src="assets/showcase.gif" alt="Slideshow of real screens from my repositories: PulseOS explaining a lab report, PulseOS call to action, a Claude Relay checkpoint with a redacted secret, the CryptoPredict AI Bitcoin forecast chart, and the RushCart storefront" width="100%">
+</div>
+
+<br>
+
+<a id="projects"></a>
+<img src="assets/headers/03.svg" alt="03 Featured projects" width="100%">
 
 <table>
 <tr>
@@ -46,69 +70,41 @@
 
 </details>
 
-## 🛠️ Tech stack
+<br>
 
-<div align="center">
+<a id="tech"></a>
+<img src="assets/headers/04.svg" alt="04 Tech universe" width="100%">
 
-**Languages & frameworks**<br><br>
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,fastapi,ts,js,react,nextjs,c,cpp,java,html,css,tailwind&theme=dark&perline=14" alt="Python, Dart, Flutter, FastAPI, TypeScript, JavaScript, React, Next.js, C, C++, Java, HTML, CSS, Tailwind">
+<img src="assets/orbit.svg" alt="Tech universe: languages Python, Dart, TypeScript, JavaScript, C, C++, Java; frameworks Flutter, FastAPI, React, Next.js, Tailwind, HTML, CSS, Three.js, scikit-learn; data and tools PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Supabase, Git, GitHub, GitHub Actions, VS Code, Docker, Linux, Bash, Postman, Figma" width="100%">
 
-**AI / ML & 3D**<br><br>
-<img src="https://skillicons.dev/icons?i=sklearn,threejs&theme=dark" alt="scikit-learn, Three.js">
+<br><br>
 
-**Databases & cloud**<br><br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,supabase&theme=dark" alt="PostgreSQL, MySQL, SQLite, MongoDB, Firebase, Supabase">
-
-**Tools**<br><br>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker,linux,bash,postman,figma&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code, Docker, Linux, Bash, Postman, Figma">
-
-</div>
-
-## 🏆 Achievements
+<a id="achievements"></a>
+<img src="assets/headers/05.svg" alt="05 Achievements" width="100%">
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
-<h3>🥇</h3>
-<b>5th place, inter-college hackathon</b><br>
-<sub>Eduseart hackathon, recognised for fast architecture and real-time execution</sub>
-</td>
-<td width="33%" align="center" valign="top">
-<h3>🛡️</h3>
-<b><a href="https://github.com/CodeWidKrish/CyberGuardAI">CyberGuard AI</a></b><br>
-<sub>Threat-analysis platform that reached a wide developer audience on LinkedIn</sub>
-</td>
-<td width="34%" align="center" valign="top">
-<h3>📈</h3>
-<b><a href="https://github.com/CodeWidKrish/TradeVision-AI">TradeVision AI</a></b><br>
-<sub>Lead architect of a capstone stock-intelligence app with a Flutter UI and FastAPI backend</sub>
-</td>
+<td width="33%"><img src="assets/achievements/hackathon.svg" alt="5th place, inter-college hackathon (Eduseart): recognised for fast architecture and real-time execution" width="100%"></td>
+<td width="33%"><a href="https://github.com/CodeWidKrish/CyberGuardAI"><img src="assets/achievements/cyberguard.svg" alt="CyberGuard AI: threat-analysis platform that reached a wide developer audience on LinkedIn" width="100%"></a></td>
+<td width="33%"><a href="https://github.com/CodeWidKrish/TradeVision-AI"><img src="assets/achievements/tradevision.svg" alt="TradeVision AI: lead architect of a capstone stock-intelligence app with a Flutter UI and FastAPI backend" width="100%"></a></td>
 </tr>
 </table>
 
-## 🗺️ My journey
+<br>
 
-```mermaid
-timeline
-    title Building in public
-    Oct 2024 : Joined GitHub
-    Aug 2026 : First public projects
-             : Tic Tac Toe in C
-             : Nimbus Weather App in Java
-             : RushCart and CyberGuard AI on the web
-    Sep 2026 : TradeVision AI
-             : Flutter + FastAPI + FinBERT
-    Oct 2026 : CryptoPredict AI
-             : PulseOS, an AI health companion
-    Nov 2026 : Claude Relay
-             : a Python CLI with 54 tests
-```
+<a id="journey"></a>
+<img src="assets/headers/06.svg" alt="06 My journey" width="100%">
 
-## 📊 GitHub stats
+<img src="assets/timeline.svg" alt="Journey: Oct 2024 joined GitHub; Aug 2026 first projects in C, Java, Python and web; Sep 2026 TradeVision AI; Oct 2026 PulseOS and CryptoPredict AI; Nov 2026 Claude Relay" width="100%">
+
+<br><br>
+
+<a id="stats"></a>
+<img src="assets/headers/07.svg" alt="07 GitHub stats" width="100%">
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=CodeWidKrish&theme=tokyonight&hide_border=true&ring=00F0FF&fire=FF3D9A&currStreakLabel=00F0FF" alt="GitHub contribution streak" width="70%">
+<img src="https://streak-stats.demolab.com/?user=CodeWidKrish&theme=tokyonight&hide_border=true&ring=00F0FF&fire=FF3D9A&currStreakLabel=00F0FF&background=0B1020" alt="GitHub contribution streak" width="100%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeWidKrish&theme=tokyonight" alt="Repositories per language" width="49%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeWidKrish&theme=tokyonight" alt="Most-committed languages" width="49%">
@@ -117,21 +113,38 @@ timeline
 
 </div>
 
-## 🐍 Contribution snake
+<br>
+
+<a id="playground"></a>
+<img src="assets/headers/08.svg" alt="08 Contribution playground" width="100%">
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/3d/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/3d/profile-season-animate.svg">
+  <img alt="My contributions as a 3D city skyline" src="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/3d/profile-night-rainbow.svg" width="100%">
+</picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake.svg">
   <img alt="A snake eating my GitHub contribution grid" src="https://raw.githubusercontent.com/CodeWidKrish/CodeWidKrish/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
+
+<sub>Both are rebuilt from my real contributions every 12 hours by a GitHub Action in this repository.</sub>
+
 </div>
 
-## 🤝 Let's connect
+<br>
+
+<a id="connect"></a>
+<img src="assets/headers/09.svg" alt="09 Let's connect" width="100%">
 
 <div align="center">
 
-I'm always happy to talk about **AI/ML, full-stack and mobile development**, or a project you're building.
+I'm always happy to talk about **AI/ML, full-stack and mobile development**, or a project you're building.<br>
+Open to **internships, opportunities and collaborations**.
 
 <a href="https://www.linkedin.com/in/krish-hingu-4575b1333/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
 <a href="mailto:krishhingu334@gmail.com?subject=Opportunity%20%2F%20Collaboration"><img src="https://img.shields.io/badge/Hire%20or-Collaborate-3ECF8E?style=for-the-badge&logo=gmail&logoColor=white" alt="Hire or collaborate"></a>
@@ -139,6 +152,6 @@ I'm always happy to talk about **AI/ML, full-stack and mobile development**, or 
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7928CA,100:FF3D9A&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=ffffff&fontAlignY=72&animation=twinkling" alt="Thanks for visiting!" width="100%">
+<img src="assets/footer.svg" alt="Thanks for visiting! Krish Hingu, Mumbai, India" width="100%">
 
 </div>

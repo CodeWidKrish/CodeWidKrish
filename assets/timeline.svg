@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Journey: Oct 2024 Joined GitHub; Aug 2026 First projects; Sep 2026 TradeVision AI; Oct 2026 PulseOS &amp; CryptoPredict; Nov 2026 Claude Relay">
+  <defs>
+    <linearGradient id="track" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F0FF"/><stop offset=".5" stop-color="#7928CA"/><stop offset="1" stop-color="#F6C177"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .d { font: 700 15px 'Fira Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace; }
+      .t { font: 800 20px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #f8fafc; }
+      .s { font: 500 14px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; }
+    </style>
+  </defs>
+  <rect width="1200" height="380" rx="26" fill="#070a18"/>
+  <line x1="110" y1="190" x2="1090" y2="190" stroke="#1e293b" stroke-width="6" stroke-linecap="round"/>
+  <line x1="110" y1="190" x2="1090" y2="190" stroke="url(#track)" stroke-width="6" stroke-linecap="round" stroke-dasharray="980" stroke-dashoffset="980">
+    <animate attributeName="stroke-dashoffset" values="980;0;0" keyTimes="0;.9;1" dur="10s" repeatCount="indefinite"/>
+  </line>
+  
+  <line x1="110" y1="190" x2="110" y2="156" stroke="#00F0FF" stroke-opacity=".6"/>
+  <circle cx="110" cy="190" r="11" fill="#0b1020" stroke="#00F0FF" stroke-width="3"/>
+  <circle cx="110" cy="190" r="5" fill="#00F0FF">
+    <animate attributeName="r" values="5;11;5;5" keyTimes="0;0.04;0.120;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <text x="110" y="98" text-anchor="middle" class="d" fill="#00F0FF">Oct 2024</text>
+  <text x="110" y="122" text-anchor="middle" class="t">Joined GitHub</text>
+  <text x="110" y="144" text-anchor="middle" class="s">the journey starts</text>
+  <line x1="355" y1="190" x2="355" y2="224" stroke="#3ECF8E" stroke-opacity=".6"/>
+  <circle cx="355" cy="190" r="11" fill="#0b1020" stroke="#3ECF8E" stroke-width="3"/>
+  <circle cx="355" cy="190" r="5" fill="#3ECF8E">
+    <animate attributeName="r" values="5;11;5;5" keyTimes="0;0.29;0.370;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <text x="355" y="230" text-anchor="middle" class="d" fill="#3ECF8E">Aug 2026</text>
+  <text x="355" y="254" text-anchor="middle" class="t">First projects</text>
+  <text x="355" y="276" text-anchor="middle" class="s">C · Java · Python · web</text>
+  <line x1="600" y1="190" x2="600" y2="156" stroke="#7928CA" stroke-opacity=".6"/>
+  <circle cx="600" cy="190" r="11" fill="#0b1020" stroke="#7928CA" stroke-width="3"/>
+  <circle cx="600" cy="190" r="5" fill="#7928CA">
+    <animate attributeName="r" values="5;11;5;5" keyTimes="0;0.54;0.620;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="98" text-anchor="middle" class="d" fill="#7928CA">Sep 2026</text>
+  <text x="600" y="122" text-anchor="middle" class="t">TradeVision AI</text>
+  <text x="600" y="144" text-anchor="middle" class="s">Flutter + FastAPI + FinBERT</text>
+  <line x1="845" y1="190" x2="845" y2="224" stroke="#FF3D9A" stroke-opacity=".6"/>
+  <circle cx="845" cy="190" r="11" fill="#0b1020" stroke="#FF3D9A" stroke-width="3"/>
+  <circle cx="845" cy="190" r="5" fill="#FF3D9A">
+    <animate attributeName="r" values="5;11;5;5" keyTimes="0;0.79;0.870;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <text x="845" y="230" text-anchor="middle" class="d" fill="#FF3D9A">Oct 2026</text>
+  <text x="845" y="254" text-anchor="middle" class="t">PulseOS &amp; CryptoPredict</text>
+  <text x="845" y="276" text-anchor="middle" class="s">health AI · Bitcoin ML</text>
+  <line x1="1090" y1="190" x2="1090" y2="156" stroke="#F6C177" stroke-opacity=".6"/>
+  <circle cx="1090" cy="190" r="11" fill="#0b1020" stroke="#F6C177" stroke-width="3"/>
+  <circle cx="1090" cy="190" r="5" fill="#F6C177">
+    <animate attributeName="r" values="5;11;5;5" keyTimes="0;0.99;0.995;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1090" y="98" text-anchor="middle" class="d" fill="#F6C177">Nov 2026</text>
+  <text x="1090" y="122" text-anchor="middle" class="t">Claude Relay</text>
+  <text x="1090" y="144" text-anchor="middle" class="s">Python CLI · 54 tests</text>
+  <circle cx="110" cy="190" r="8" fill="#fff" filter="url(#glow)">
+    <animate attributeName="cx" values="110;1090;1090" keyTimes="0;.9;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="352" text-anchor="middle" class="s">… and the next chapter is being written right now</text>
+</svg>

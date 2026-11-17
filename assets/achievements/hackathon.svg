@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="250" viewBox="0 0 390 250" role="img" aria-label="5th Place: Inter-college hackathon. Eduseart hackathon: recognised for fast architecture and real-time execution">
+  <defs>
+    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <radialGradient id="gl" cx=".5" cy=".28" r=".5"><stop offset="0" stop-color="#F6C177" stop-opacity=".35"/><stop offset="1" stop-color="#F6C177" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect x="1" y="1" width="388" height="248" rx="20"/></clipPath>
+    <style>
+      .sweep { animation: sw 3.6s ease-in-out infinite; }
+      @keyframes sw { from { transform: translateX(-260px) skewX(-20deg); } to { transform: translateX(520px) skewX(-20deg); } }
+      .bob { animation: bob 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      @keyframes bob { 0%,100% { transform: translateY(0) scale(1); } 50% { transform: translateY(-6px) scale(1.06); } }
+      .i { font: 48px 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif; }
+      .t { font: 800 25px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #f8fafc; }
+      .k { font: 700 13px 'Fira Code', Consolas, Menlo, 'DejaVu Sans Mono', monospace; fill: #F6C177; letter-spacing: 1.5px; }
+      .l { font: 400 15px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #cbd5e1; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="388" height="248" rx="20" fill="#0b1020" stroke="#F6C177" stroke-opacity=".7" stroke-width="2"/>
+  <rect x="1" y="1" width="388" height="248" rx="20" fill="url(#gl)"/>
+  <g clip-path="url(#c)"><rect x="0" y="0" width="120" height="250" fill="url(#sh)" class="sweep"/></g>
+  <text x="195" y="78" text-anchor="middle" class="i bob">🏅</text>
+  <text x="195" y="124" text-anchor="middle" class="t">5th Place</text>
+  <text x="195" y="150" text-anchor="middle" class="k">INTER-COLLEGE HACKATHON</text>
+  <text x="195" y="190" text-anchor="middle" class="l">Eduseart hackathon: recognised for</text>
+  <text x="195" y="212" text-anchor="middle" class="l">fast architecture and real-time execution</text>
+</svg>
