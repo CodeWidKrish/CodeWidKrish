@@ -2,7 +2,7 @@
 
 <a href="https://github.com/CodeWidKrish"><img src="assets/hero-cinematic.svg" alt="Krish Hingu: Computer Engineering student, full-stack, mobile and AI/ML developer from Mumbai" width="100%"></a>
 
-<a href="https://github.com/CodeWidKrish"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=920&height=48&lines=I+turn+ideas+into+full-stack%2C+mobile+and+AI+products;PulseOS+%E2%80%94+an+AI+health+companion;TradeVision+AI+%E2%80%94+AI+equity+intelligence;Claude+Relay+%E2%80%94+keep+coding+past+the+5-hour+limit;CryptoPredict+AI+%E2%80%94+machine+learning+for+Bitcoin;Always+shipping+something+new+%F0%9F%9A%80" alt="I turn ideas into full-stack, mobile and AI products: PulseOS, TradeVision AI, Claude Relay and CryptoPredict AI."></a>
+<a href="https://github.com/CodeWidKrish"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=920&height=48&lines=I+turn+ideas+into+full-stack%2C+mobile+and+AI+products;PulseOS+%E2%80%94+an+AI+health+companion;TradeVision+AI+%E2%80%94+AI+equity+intelligence;Claude+Relay+%E2%80%94+keep+coding+past+the+5-hour+limit;PitWall+%E2%80%94+F1+race+and+title+forecaster;CryptoPredict+AI+%E2%80%94+machine+learning+for+Bitcoin;Always+shipping+something+new+%F0%9F%9A%80" alt="I turn ideas into full-stack, mobile and AI products: PulseOS, TradeVision AI, Claude Relay, PitWall and CryptoPredict AI."></a>
 
 <a href="https://www.linkedin.com/in/krish-hingu-4575b1333/"><img src="https://img.shields.io/badge/LinkedIn-Krish%20Hingu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:krishhingu334@gmail.com?subject=Opportunity%20%2F%20Collaboration"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -36,6 +36,9 @@
 <img src="assets/headers/02.svg" alt="02 Project showcase" width="100%">
 
 <div align="center">
+<a href="https://github.com/CodeWidKrish/PitWall"><img src="https://raw.githubusercontent.com/CodeWidKrish/PitWall/main/docs/assets/hero.gif" alt="PitWall: the lights go out and the model's top ten race on a 3D night circuit, with the model's favourites and a countdown to the next Grand Prix" width="100%"></a>
+<sub><b>PitWall</b> · F1 race and title forecaster · <a href="https://pitwallgp.vercel.app">pitwallgp.vercel.app</a> · recorded from the live site</sub>
+<br><br>
 <img src="assets/showcase.gif" alt="Slideshow of real screens from my repositories: PulseOS explaining a lab report, PulseOS call to action, a Claude Relay checkpoint with a redacted secret, the CryptoPredict AI Bitcoin forecast chart, and the RushCart storefront" width="100%">
 </div>
 
@@ -45,6 +48,9 @@
 <img src="assets/headers/03.svg" alt="03 Featured projects" width="100%">
 
 <table>
+<tr>
+<td colspan="2" align="center"><a href="https://github.com/CodeWidKrish/PitWall"><img src="assets/projects/pitwall.svg" alt="PitWall: F1 race and title forecaster with calibrated odds before every race, 10,000-season simulations and a 3D physics race. Next.js, three.js, Python, LightGBM." width="60%"></a></td>
+</tr>
 <tr>
 <td width="50%"><a href="https://github.com/CodeWidKrish/PulseOS"><img src="assets/projects/pulseos.svg" alt="PulseOS: AI health companion that explains lab reports in plain language, tracks vitals and books doctors. Next.js, FastAPI, PostgreSQL, Three.js." width="100%"></a></td>
 <td width="50%"><a href="https://github.com/CodeWidKrish/TradeVision-AI"><img src="assets/projects/tradevision.svg" alt="TradeVision AI: AI equity intelligence with FinBERT sentiment, ML BUY/SELL signals and Brownian Bridge charts. Flutter, FastAPI." width="100%"></a></td>

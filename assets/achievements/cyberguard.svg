@@ -1,11 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="390" height="250" viewBox="0 0 390 250" role="img" aria-label="CyberGuard AI: Viral on LinkedIn. Threat-analysis platform that reached a wide developer audience">
-  <defs>
-    <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <defs>
     <radialGradient id="gl" cx=".5" cy=".28" r=".5"><stop offset="0" stop-color="#00F0FF" stop-opacity=".35"/><stop offset="1" stop-color="#00F0FF" stop-opacity="0"/></radialGradient>
     <clipPath id="c"><rect x="1" y="1" width="388" height="248" rx="20"/></clipPath>
-    <style>
-      .sweep { animation: sw 3.6s ease-in-out infinite; }
-      @keyframes sw { from { transform: translateX(-260px) skewX(-20deg); } to { transform: translateX(520px) skewX(-20deg); } }
+    <style>
       .bob { animation: bob 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes bob { 0%,100% { transform: translateY(0) scale(1); } 50% { transform: translateY(-6px) scale(1.06); } }
       .i { font: 48px 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif; }
@@ -15,8 +12,7 @@
     </style>
   </defs>
   <rect x="1" y="1" width="388" height="248" rx="20" fill="#0b1020" stroke="#00F0FF" stroke-opacity=".7" stroke-width="2"/>
-  <rect x="1" y="1" width="388" height="248" rx="20" fill="url(#gl)"/>
-  <g clip-path="url(#c)"><rect x="0" y="0" width="120" height="250" fill="url(#sh)" class="sweep"/></g>
+  <rect x="1" y="1" width="388" height="248" rx="20" fill="url(#gl)"/>
   <text x="195" y="78" text-anchor="middle" class="i bob">🛡️</text>
   <text x="195" y="124" text-anchor="middle" class="t">CyberGuard AI</text>
   <text x="195" y="150" text-anchor="middle" class="k">VIRAL ON LINKEDIN</text>

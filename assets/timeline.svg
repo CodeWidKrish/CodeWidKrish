@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Journey: Oct 2024 Joined GitHub; Aug 2026 First projects; Sep 2026 TradeVision AI; Oct 2026 PulseOS &amp; CryptoPredict; Nov 2026 Claude Relay">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Journey: Oct 2024 Joined GitHub; Aug 2026 First projects; Sep 2026 TradeVision AI; Oct 2026 PulseOS &amp; CryptoPredict; Nov 2026 Claude Relay and PitWall">
   <defs>
     <linearGradient id="track" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F0FF"/><stop offset=".5" stop-color="#7928CA"/><stop offset="1" stop-color="#F6C177"/></linearGradient>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -52,8 +52,8 @@
     <animate attributeName="r" values="5;11;5;5" keyTimes="0;0.99;0.995;1" dur="10s" repeatCount="indefinite"/>
   </circle>
   <text x="1090" y="98" text-anchor="middle" class="d" fill="#F6C177">Nov 2026</text>
-  <text x="1090" y="122" text-anchor="middle" class="t">Claude Relay</text>
-  <text x="1090" y="144" text-anchor="middle" class="s">Python CLI · 54 tests</text>
+  <text x="1090" y="122" text-anchor="middle" class="t">Relay + PitWall</text>
+  <text x="1090" y="144" text-anchor="middle" class="s">CLI · F1 forecaster</text>
   <circle cx="110" cy="190" r="8" fill="#fff" filter="url(#glow)">
     <animate attributeName="cx" values="110;1090;1090" keyTimes="0;.9;1" dur="10s" repeatCount="indefinite"/>
   </circle>

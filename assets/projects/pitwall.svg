@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="200" viewBox="0 0 580 200" role="img" aria-label="PitWall (TypeScript, Python): F1 race and title forecaster with calibrated odds before every race, 10,000-season simulations and a 3D physics race. Built with Next.js, three.js, Python and LightGBM. Live at pitwallgp.vercel.app.">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8f45ff"/><stop offset="1" stop-color="#14b3a4"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.5 0;0.5 0;-0.5 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.9" cy="0.1" r="0.7">
+      <stop offset="0" stop-color="#8f45ff" stop-opacity="0.24"/><stop offset="1" stop-color="#8f45ff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .ti { font: 800 27px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #f8fafc; }
+      .ds { font: 400 16px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #cbd5e1; }
+      .ch { font: 600 13px 'Fira Code', Consolas, Menlo, monospace; fill: #e2e8f0; }
+      .lg { font: 600 13px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; fill: #94a3b8; }
+      .border { animation: pulse 3.5s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { stroke-opacity: .35; } 50% { stroke-opacity: .9; } }
+      .in { opacity: 0; animation: in .7s ease-out forwards; }
+      @keyframes in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      .l { opacity: .15; animation: l 5s steps(1) infinite; }
+      .l1 { animation-name: l1; } .l2 { animation-name: l2; } .l3 { animation-name: l3; } .l4 { animation-name: l4; } .l5 { animation-name: l5; }
+      @keyframes l1 { 0% { opacity: .15; } 8%  { opacity: 1; } 60% { opacity: .15; } }
+      @keyframes l2 { 0% { opacity: .15; } 18% { opacity: 1; } 60% { opacity: .15; } }
+      @keyframes l3 { 0% { opacity: .15; } 28% { opacity: 1; } 60% { opacity: .15; } }
+      @keyframes l4 { 0% { opacity: .15; } 38% { opacity: 1; } 60% { opacity: .15; } }
+      @keyframes l5 { 0% { opacity: .15; } 48% { opacity: 1; } 60% { opacity: .15; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="578" height="198" rx="16" fill="#0b1020"/>
+  <rect x="1" y="1" width="578" height="198" rx="16" fill="url(#glow)"/>
+  <rect x="1" y="1" width="578" height="198" rx="16" fill="none" stroke="url(#accent)" stroke-width="2" class="border"/>
+  <rect x="24" y="22" width="56" height="5" rx="2.5" fill="url(#accent)"/>
+  <!-- start lights -->
+  <g transform="translate(452 18)">
+    <rect width="104" height="24" rx="6" fill="#141519" stroke="#ffffff" stroke-opacity=".08"/>
+    <circle class="l l1" cx="16" cy="12" r="6" fill="#ff2a36"/>
+    <circle class="l l2" cx="34" cy="12" r="6" fill="#ff2a36"/>
+    <circle class="l l3" cx="52" cy="12" r="6" fill="#ff2a36"/>
+    <circle class="l l4" cx="70" cy="12" r="6" fill="#ff2a36"/>
+    <circle class="l l5" cx="88" cy="12" r="6" fill="#ff2a36"/>
+  </g>
+  <g class="in">
+    <text x="24" y="62" class="ti">PitWall</text>
+    <circle cx="140" cy="54" r="6" fill="#3178c6"/><text x="152" y="59" class="lg">TypeScript · Python</text>
+    <text x="24" y="94" class="ds">F1 race and title forecaster: calibrated odds before</text>
+    <text x="24" y="116" class="ds">every race, scored in public, with a 3D physics race.</text>
+  </g>
+  <g class="in" style="animation-delay:.25s"><rect x="24" y="138" width="76" height="28" rx="14" fill="#111a33" stroke="#334155"/><text x="62" y="157" text-anchor="middle" class="ch">Next.js</text><rect x="108" y="138" width="84" height="28" rx="14" fill="#111a33" stroke="#334155"/><text x="150" y="157" text-anchor="middle" class="ch">three.js</text><rect x="200" y="138" width="84" height="28" rx="14" fill="#111a33" stroke="#334155"/><text x="242" y="157" text-anchor="middle" class="ch">LightGBM</text><rect x="292" y="138" width="104" height="28" rx="14" fill="#111a33" stroke="#334155"/><text x="344" y="157" text-anchor="middle" class="ch">Monte Carlo</text></g>
+  <text x="556" y="184" text-anchor="end" class="lg">live · pitwallgp.vercel.app</text>
+</svg>
